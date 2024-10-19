@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'TeletactileLatCyr';
+    src: url('/fonts/TeletactileLatCyr.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'TeletactileLatCyr', sans-serif;
+  }
+  
